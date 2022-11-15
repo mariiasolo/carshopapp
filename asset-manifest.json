@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/carshopapp/static/css/main.b294c452.css",
+    "main.js": "/carshopapp/static/js/main.1fb9c903.js",
+    "static/js/787.c3c621a9.chunk.js": "/carshopapp/static/js/787.c3c621a9.chunk.js",
+    "index.html": "/carshopapp/index.html",
+    "main.b294c452.css.map": "/carshopapp/static/css/main.b294c452.css.map",
+    "main.1fb9c903.js.map": "/carshopapp/static/js/main.1fb9c903.js.map",
+    "787.c3c621a9.chunk.js.map": "/carshopapp/static/js/787.c3c621a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b294c452.css",
+    "static/js/main.1fb9c903.js"
+  ]
+}
